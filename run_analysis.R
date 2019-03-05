@@ -1,3 +1,5 @@
+## rm(list=ls()) # clear workspace
+
 library(dplyr)
 library(reshape2)
 
